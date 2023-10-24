@@ -1,3 +1,16 @@
+# v0.3.3 (Tue Oct 24 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/leonardoChiaralo/libraryComponents ([@leonardoChiaralo](https://github.com/leonardoChiaralo))
+- adicionando componente InputQuantidade ([@leonardoChiaralo](https://github.com/leonardoChiaralo))
+
+#### Authors: 1
+
+- [@leonardoChiaralo](https://github.com/leonardoChiaralo)
+
+---
+
 # v0.3.2 (Tue Oct 24 2023)
 
 #### ⚠️ Pushed to `main`
